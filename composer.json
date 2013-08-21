@@ -1,0 +1,9 @@
+{
+    "name": "mjainta/wa-lib",
+    "description": "Web Application library",
+    "license": "proprietary",
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*",
+        "phpmailer/phpmailer": "5.2.*"
+    }
+}
